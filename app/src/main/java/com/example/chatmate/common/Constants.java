@@ -21,8 +21,8 @@ public class Constants {
     public static final String NOTIFICATION_TO = "to";
     public static final String NOTIFICATION_DATA = "data";
 
-    public static final String FIREBASE_KEY = "AAAAynN1TKk:APA91bELfAUreLeMjgSkfcWbdhbauJn7135-L9Xo_5w86jjxl3kdGfN9LdHU5pms7bEjap4qfzhJJwYi7CR5Mr1oj8wku5v2lb2vpKvgeMvC7FUcIdBw2iJTZf_JYsF87Hc4PT9YBIhk";
-    public static final String SENDER_ID = "869520460969";
+    public static final String FIREBASE_KEY = "Your Fiebase Key";
+    public static final String SENDER_ID = "869*********";
 
     public static final String CHANNEL_ID = "chat_app_01";
     public static final String CHANNEL_NAME ="chat_app_notifications";
